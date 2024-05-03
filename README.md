@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/connectedwizzard/wi4x_hud/master/_storage/_bgtf.png)
+![Logo](https://avatars.githubusercontent.com/u/74361782)
 # About
 > whud
 
